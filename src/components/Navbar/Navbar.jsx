@@ -35,7 +35,7 @@ const Navbar = () => {
           Lon In / Register
         </a>
         <div />
-        <a href="/" className="p__opensans">
+        <a href="/#" className="p__opensans">
           {' '}
           Book Table
         </a>

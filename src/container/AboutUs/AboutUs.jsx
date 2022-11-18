@@ -20,9 +20,9 @@ const AboutUs = () => (
           veritatis vero sunt iste atque voluptates ducimus odit maxime tempora
           labore!
         </p>
-        <button type="button" className="custom__button">
+        <a type="button" className="custom__button" href="#awards">
           More
-        </button>
+        </a>
       </div>
 
       <div className="app__aboutus-content_knife flex__center">

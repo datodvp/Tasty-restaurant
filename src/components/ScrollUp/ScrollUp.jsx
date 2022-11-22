@@ -4,6 +4,7 @@ import './ScrollUp.css';
 
 const ScrollUp = () => {
   const [hidden, setHidden] = useState(true);
+
   const fireClick = () => {
     window.scrollTo(0, 0);
   };

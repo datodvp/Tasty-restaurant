@@ -1,10 +1,6 @@
-# Getting Started with Create React App
+# Website info
 
 To check website click [APP DEMO](https://datodvp.github.io/Tasty-restaurant/).
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 

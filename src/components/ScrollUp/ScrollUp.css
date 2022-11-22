@@ -1,0 +1,19 @@
+.app__scrollUp {
+  position: fixed;
+  background-color: transparent;
+  right: 4rem;
+  bottom: 4rem;
+  z-index: 10;
+  cursor: pointer;
+  width: 45px;
+  height: 45px;
+  border-radius: 100%;
+  border: var(--color-golden) 3px solid;
+  color: var(--color-golden);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+  font-weight: 600;
+}

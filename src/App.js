@@ -1,11 +1,23 @@
 import React from 'react';
 
-import { AboutUs, Chef, FindUs, Footer, Gallery, Header, Intro, Laurels, SpecialMenu } from './container';
+import {
+  AboutUs,
+  Chef,
+  FindUs,
+  Footer,
+  Gallery,
+  Header,
+  Intro,
+  Laurels,
+  SpecialMenu,
+} from './container';
 import { Navbar } from './components';
 import './App.css';
+import ScrollUp from './components/ScrollUp/ScrollUp';
 
 const App = () => (
   <div>
+    <ScrollUp />
     <Navbar />
     <Header />
     <AboutUs />

@@ -1,3 +1,3 @@
 # Website info
 
-To check website click [APP DEMO](https://tasty-restaurant-production.up.railway.app).
+To check website click [APP DEMO](https://datodvp.github.io/Tasty-restaurant/).
